@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "GwDevDatabase", "GwDevDatabase\GwDevDatabase.sqlproj", "{9A3327AE-D735-431A-AD93-BCDEBCE03C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A3327AE-D735-431A-AD93-BCDEBCE03C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3327AE-D735-431A-AD93-BCDEBCE03C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3327AE-D735-431A-AD93-BCDEBCE03C81}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9A3327AE-D735-431A-AD93-BCDEBCE03C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3327AE-D735-431A-AD93-BCDEBCE03C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3327AE-D735-431A-AD93-BCDEBCE03C81}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD30EE4-9B34-4189-8A27-F9AC68D0E283}
+	EndGlobalSection
+EndGlobal
